@@ -31,3 +31,4 @@ export const Clock1 = () => {
         </div>
     );
 };
+// ilk komut gönderimim
